@@ -18,5 +18,5 @@ http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf<br/><br/>
 
 ### Glossary<br/><br/>
 
-#### HOG(Histogram of oriented gradients)<br/>
+#### HOG(Histogram of Oriented Gradients)<br/>
 https://www.learnopencv.com/histogram-of-oriented-gradients/<br/>
