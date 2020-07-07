@@ -1,4 +1,6 @@
-# learning_on_object_detection_and_classification<br/>
+# learning_on_object_detection_and_classification<br/><br/>
+
+Object detection+classification is much complex than pure classification. Try to record all the useful information here.
 
 ### Articles<br/>
 1. Brief history of object detection and classification:<br/><br/>
