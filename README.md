@@ -23,3 +23,4 @@ https://www.learnopencv.com/histogram-of-oriented-gradients/<br/><br/>
 
 #### SVM(Support Vector Machine)<br/>
 https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72<br/>
+
