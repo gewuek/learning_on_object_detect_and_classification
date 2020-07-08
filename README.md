@@ -19,4 +19,7 @@ http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture11.pdf<br/><br/>
 ### Glossary<br/><br/>
 
 #### HOG(Histogram of Oriented Gradients)<br/>
-https://www.learnopencv.com/histogram-of-oriented-gradients/<br/>
+https://www.learnopencv.com/histogram-of-oriented-gradients/<br/><br/>
+
+#### SVM(Support Vector Machine)<br/>
+https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72<br/>
