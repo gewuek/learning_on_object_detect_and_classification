@@ -28,6 +28,6 @@ https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-the
 #### Selective Search<br/>
 https://www.learnopencv.com/selective-search-for-object-detection-cpp-python/<br/>
 
-### Image Segmentation<br/>
+#### Image Segmentation<br/>
 https://www.analyticsvidhya.com/blog/2019/04/introduction-image-segmentation-techniques-python/<br/>
 
